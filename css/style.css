@@ -790,10 +790,7 @@ p {
     margin-right: 1rem;
   }
 
-  <<<<<<< HEAD ======= .footer__contact1-icon1::before {
-  }
-
-  >>>>>>>84cafd10c9652ad83a9aaf12f26c5c0a961d0d0b .footer__contact2 {
+  .footer__contact2 {
     border-right: none;
   }
 
@@ -803,6 +800,9 @@ p {
   .footer__social-media {
     width: 25%;
     margin-right: 2rem;
+  }
+
+  .footer__contact {
   }
 
   .footer__menu {
