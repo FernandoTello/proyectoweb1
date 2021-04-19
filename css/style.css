@@ -1,7 +1,7 @@
 /************** Reset CSS *******************/
 :root {
-  --main-font: "Lato", sans-serif;
-  --logo-font: "Cookie", cursive;
+  --main-font: 'Lato', sans-serif;
+  --logo-font: 'Cookie', cursive;
   --font-size: 16px;
   --main-color: rgb(251, 186, 24);
   --second-color: #222;
@@ -20,6 +20,7 @@ html {
 *,
 *::before,
 *::after {
+  box-sizing: border-box;
 }
 
 body {
